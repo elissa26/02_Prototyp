@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Convai/Demo/Scenes/Full Features/Convai Demo - All Features.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
